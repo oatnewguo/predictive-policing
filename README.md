@@ -1,0 +1,2 @@
+# predictive-policing
+Project for CSCI 181, Fall 2017, taught by Professor Mariam Salloum at Claremont McKenna College. Team members: Wentao Guo, Michelle Feng, Lio Zuniga. Aim (twofold): (1) to collect police data by city and explore changes that occur when cities implement predictive policing software, with a focus on potential bias in predictive policing algorithms, and (2) to analyze a corpus of text documents using corpus linguistics techniques to understand how the discussion around predictive policing software has evolved over time.
