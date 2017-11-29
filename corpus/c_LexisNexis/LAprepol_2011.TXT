@@ -1,0 +1,1572 @@
+﻿
+                               1 of 13 DOCUMENTS
+
+
+                        Santa Cruz Sentinel (California)
+
+                 Distributed by McClatchy-Tribune Business News
+
+                          November 23, 2011 Wednesday
+
+Time magazine names Santa Cruz predictive policing program one of the year's top
+inventions
+
+BYLINE: Jessica M. Pasko, Santa Cruz Sentinel, Calif.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 586 words
+
+
+Nov. 23--SANTA CRUZ -- The city police department's predictive policing program
+has garnered yet another accolade.
+
+The program is being named as one of the 50 best inventions of 2011 by none
+other than Time magazine.
+
+In the Nov. 28 issue, which is already in newsstands, the program was praised
+for helping the department "get ahead of the bad guys." It joins the ranks of
+such inventions as the iPad, the electric car and devices that help people walk
+again, which have all been named among the top inventions in previous years.
+Time releases its "50 Best New Inventions" issue annually. Other inventions
+honored by Time this year are Apple's Siri, 3-D processors and holographic
+mapping.
+
+"We are honored to be recognized by Time magazine for our predictive policing
+program," said Police Chief Kevin Vogel. "Innovation is the key to modern
+policing and we're proud to be leveraging technology in a way that keeps our
+community safer."
+
+The program, which uses technology based on earthquake prediction technology,
+has been praised by media outlets and law enforcement agencies around the nation
+for its innovation, including features in The New York Times and on ABC World
+News with Diane Sawyer, among others.
+
+Being recognized by Time is a big honor, but what's more important is that since
+the program was implemented, the department has seen a large reduction in
+crimes, said Zach Friend, spokesman and crime analyst for the department.
+
+"We're focused a lot less on the coverage and the accolades than we are on the
+actual reduction," said Friend, who was instrumental in bringing the program to
+Santa Cruz.
+
+Friend first read about the predictive policing program being worked on by Santa
+Clara University's Dr. George Mohler in the Los Angeles Times last year, and
+decided to approach Mohler about implementing it in Santa Cruz. Mohler developed
+the program with a team of UCLA researchers using an earthquake aftershock model
+to determine where future crimes will occur, initially using data from the Los
+Angeles Police Department. It's similar to the predictability of an aftershock
+after an earthquake in that the model predicts that there will be so-called
+"after crimes" following an initial crime.
+
+Friend and Santa Cruz police leaders met with Mohler and provided him with crime
+data from 2002-2009, with a focus on property crimes. The department became the
+first in the nation to use the predictive program, which it implemented in July,
+and since then, they've already seen a decrease in the targeted crime types,
+which includes burglaries and motor vehicle thefts.
+
+In January, the police department will work with the researchers to do a full
+analysis of the program after the first six months of implementation. Other
+police departments are also looking into implementing the program, which LAPD
+has started testing in one of its divisions.
+
+Friend and Lt. Bernie Escalante visited LAPD earlier this week to speak to
+members of the division, which is three times the size of the entire Santa Cruz
+Police Department, about using the program and how its worked in Santa Cruz.
+
+The program can also help ease the pain of departments dealing with shrinking
+staffing due to budget cuts, a matter of increasing importance given the
+nation's economic troubles.
+
+"Technological programs like this can help equalize the gap there," said Friend.
+
+___ (c)2011 the Santa Cruz Sentinel (Scotts Valley, Calif.) Visit the Santa Cruz
+Sentinel (Scotts Valley, Calif.) at www.santacruzsentinel.com Distributed by MCT
+Information Services
+
+LOAD-DATE: November 25, 2011
+
+LANGUAGE: ENGLISH
+
+ACC-NO: 20111123-QC-Time-magazine-names-Santa-Cruz-predictive-policing
+-program-one-of-the-year-20111123
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: QC
+
+
+                       Copyright 2011 Santa Cruz Sentinel
+
+
+                               2 of 13 DOCUMENTS
+
+
+                         Star Tribune (Minneapolis, MN)
+
+                            January 23, 2011 Sunday
+                                 METRO EDITION
+
+the NEXT crime;
+Minneapolis police are part of a national movement that is producing
+revolutionary results in predicting criminal behavior.
+
+BYLINE: MATT McKINNEY; STAFF WRITER, STAR TRIBUNE (Mpls.-St. Paul)
+
+SECTION: NEWS; Pg. 1A
+
+LENGTH: 1597 words
+
+
+STAR TRIBUNE EXCLUSIVE
+
+Ryan Hughes, a young, spiky-haired computer analyst for the Minneapolis Police
+Department, pulls up a map of the Twin Cities on his screen.
+
+"Here, here, here," he begins, pointing to six red dots. Each marks a robbery
+probably committed by the same man.
+
+"And here," Hughes continues, pointing to a dot just northeast of Minneapolis,
+"is where I predicted he would go next."
+
+Simple as a crime map, seemingly as far-fetched as ESP, such scenes are becoming
+more common. Police departments from Minneapolis to Los Angeles are turning to
+the emerging science of using recent crime data to predict where criminals will
+strike next.
+
+The potentially revolutionary step could fundamentally alter the nature of
+police work.
+
+The idea is that everyone, even criminals, are creatures of habit. With enough
+information about past crimes, it's possible to forecast their future target.
+
+"We usually look at the last week and say, 'This is what happened in the last
+week,'" said Minneapolis Chief Tim Dolan. "Well we've added to that, saying,
+'This is what we think's going to happen next week.'"
+
+That kind of thinking has just begun in Minneapolis, but Dolan says it's already
+paid off in north and southwest Minneapolis, areas that led the city last year
+in reducing overall crime rates.
+
+The strategy looks slightly different everywhere it's used, but predictive
+policing relies mainly on a police department's ability to accumulate deep
+databases of crime information that detail time, location, methods and numerous
+other bits of revealing data. Crunched by a computer analyst, the numbers reveal
+patterns.
+
+That's the task facing a crew of five such crime analysts who work out of a
+second floor office in City Hall. Every day, they pore over recent crime data,
+slicing it different ways and sometimes using software to crunch it further. If
+a pattern emerges, they mark it down for consideration on an internal crime map
+that gets passed along to the chief for his weekly meeting with top inspectors
+and lieutenants.
+
+A handful of police departments around the country have spent tens of thousands
+of dollars on more advanced software, or are working with university researchers
+and technology companies on algorithms to help them spot crime trends. It's akin
+to predicting where an earthquake's aftershocks will be felt, says a Santa Clara
+University mathematician developing formulas for such police work.
+
+As for Hughes' prediction of where the Minneapolis robber would strike next? It
+was made using free software distributed by the National Institute of Justice.
+The software examines the location and timing of each crime to draw its
+conclusions. The estimate of the robber's next target turned out to be a mile
+off. But in the world of crime prediction, that's still counted as a success --
+the kind of information that could put a patrol car close to the action.
+
+Hughes, who hopes the Minneapolis department will eventually use more
+high-powered software for predictive policing, said that his maps have
+accurately predicted the locations of 45 percent of the city's violent crime.
+
+"I have a better batting average than Joe Mauer," Hughes said.
+
+Stocking Pop-Tarts
+
+To better understand predictive policing, consider the Pop-Tarts story.
+
+Businesses such as Wal-Mart have long anticipated customers' needs based on
+weather and time of year. Coastal stores knew that as hurricanes approached,
+customers stocked up on bottled water and duct tape. Those things made sense,
+but looking more closely at customer data and comparing it to weather patterns,
+analysts at Wal-Mart noticed that customers anticipating a hurricane also bought
+more strawberry Pop-Tarts.
+
+It's the sort of anecdote that the emerging industry of predictive policing
+embraces because it shows how analyzing data can turn up surprises, things that
+can be used to predict future behavior.
+
+The promise of doing the same thing with crime has prompted some large police
+departments such as Los Angeles to invest in partnerships with university
+researchers to devise predictive algorithms or formulas. As exotic as it sounds,
+it's just the next step in the changing world of police work, said William
+Bratton, the celebrated former chief of police in Los Angeles and New York City.
+
+"It's really the continuation of the evolution of policing," Bratton said.
+
+Starting in the 1990s, when police began using crime reports to identify hot
+spots, the focus has been on putting police officers near high-crime areas.
+Putting laptops in squad cars and publishing crime maps helped shorten response
+time. Now, police departments can quickly analyze a lot of crime data to spot
+crime trends as they're occurring.
+
+"So after two or three incidents we can put a stop to it instead of waiting for
+20 or 30," said Bratton, who now works as an independent security consultant.
+
+"This is potentially labor-saving," he said. "That's very important because as
+we're going into very tough times with public financing, it's going to become
+more and more critical."
+
+The hope is that predictive policing will help supplant random patrolling, which
+studies have shown doesn't work well.
+
+"It's not enough to send people out and expect that they will have an impact on
+crime," said Chuck Wexler, executive director of the Police Executive Research
+Forum in Washington.
+
+Narrowing the field
+
+Minneapolis police estimate that half of the city's most serious crime takes
+place on 6 percent of its land area. Many of the worst areas are under video
+surveillance, as the city expands its use of closed circuit cameras. But even
+within those high crime areas, there might be a few blocks that are particularly
+rough on any given week, said Sgt. Jeff Egge, the head of the department's Crime
+Analysis Unit.
+
+His staff of five analysts make predictions by printing color-coded maps that
+show blocks or small sectors where they expect crimes such as burglary, robbery
+and aggravated assaults. The techniques are less effective for "episodic" crimes
+such as homicide, which are more random.
+
+The strategy adds a predictive element to the department's CODEFOR program,
+begun in 1998 to map the city's crime hot spots.
+
+"When we started CODEFOR, we looked at where crime occurred last week," said
+Deputy Chief Rob Allen. "What we've asked people to do is to focus more on where
+we anticipate crime is going to occur next week. We've made it sort of
+future-oriented rather than assuming the same patterns will continue."
+
+It's had its successes, police say.
+
+Last October, two felons walked into the Dunn Brothers coffee shop in Uptown,
+pistol-whipped one of the two clerks, tied them up in a back room and took a bag
+of cash.
+
+Witnesses called 911. Police arrived in time to catch the robbers. The two now
+face federal charges due to their criminal histories.
+
+Fifth Precinct Inspector Ed Frizell said it was no coincidence that officers
+arrived so quickly. Fifth Precinct officers were looking out for storefront
+robberies along Lake Street as part of the precinct's predictive analysis.
+
+"The officers of the Fifth Precinct have absolutely made this thing work,"
+Frizell said. "They have total buy-in."
+
+Frizell said he knows the color-coded maps issued by the Crime Analysis Unit are
+taken seriously by his patrol officers because he sees them taking notes off of
+fresh maps hung in the precinct.
+
+It's easier than handing an officer a stack of the latest intelligence, said Lt.
+Jeff Rugel, who runs the Gang Enforcement Team out of the department's new
+strategic information center. "A commander issuing orders can say, 'See where
+it's red? Go be where it's red,'" Rugel said. "It makes it very easy to see
+what's going on as opposed to charts and charts of data."
+
+It can be tough to gauge the success of predictive policing because analysts
+don't know whether added police presence at predicted hot spots deters the
+predicted crime.
+
+"You can't measure things that don't happen," said Capt. Amelia Huffman,
+commander of the criminal investigations division.
+
+If a prediction helps police catch someone doing a lot of crimes, the effect on
+local crime rates can be remarkable. For example, said Huffman, if a prolific
+burglar is captured, burglary dots on the weekly crime maps will "melt away."
+
+Plain common sense?
+
+Sometimes, predictive policing looks a lot more like common sense than science
+fiction, said Egge, who gave the example of how his unit analyzed years of data
+on burglaries that occurred each year during the week the University of
+Minnesota started classes.
+
+Laptops, GPS units, iPods and other expensive items are often left in cars or
+hallways as students unpack, and many are stolen.
+
+This past fall, crime analysts Hughes and Susan McPhee came up with maps of the
+Dinkytown area that highlighted the spots that historically have the most crime
+during opening week. Then crime prevention specialists warned students in that
+area to use caution while officers kept an eye on the worst spots. Crimes were
+down sharply, police said.
+
+Last month, Chief Dolan spoke at the grand opening of a police intelligence
+center where a few officers can monitor hundreds of live video feeds from across
+the city on three movie screens. They just have to know where to look.
+
+Dolan said predictive policing has just begun in Minneapolis and will grow as
+the department becomes more accustomed to it. In the end, he said, it's just one
+more tool to put police where they should be.
+
+"The most efficient thing we can do is prevent a crime," Dolan said. "Solving a
+crime is all good once a crime's occurred. It is much more efficient to be
+trying to prevent crime for a community."
+
+Matt McKinney - 612-217-1747
+
+LOAD-DATE: January 24, 2011
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+
+                          Copyright 2011 Star Tribune
+                              All Rights Reserved
+
+
+                               3 of 13 DOCUMENTS
+
+
+                        The International Herald Tribune
+
+                           August 17, 2011 Wednesday
+
+In the U.S., a new computer program aims to fight crime by predicting it
+
+BYLINE: BY ERICA GOODE
+
+SECTION: NEWS; Pg. 4
+
+LENGTH: 1036 words
+
+ABSTRACT
+
+The police in Santa Cruz, California, are giving predictive policing --
+deploying officers in places where crimes have been projected as likely to occur
+in the future -- a test run.
+
+FULL TEXT
+
+The arrests were routine. Two women were taken into custody after they were
+discovered peering into cars in a downtown parking garage in Santa Cruz,
+California. One woman was found to have outstanding warrants; the other was
+carrying illegal drugs.
+
+But the presence of the police officers in the garage that Friday afternoon in
+July was anything but ordinary: They had been directed to it by a computer
+program that had predicted that car burglaries were especially likely there that
+day.
+
+The program is part of an unusual experiment by the Santa Cruz Police Department
+in predictive policing - deploying officers in places where the computer
+projects crimes are likely to occur in the future.
+
+In July, Santa Cruz began testing the prediction method for property crimes like
+car and home burglaries and car thefts. So far, said Zach Friend, the Police
+Department's crime analyst, the program has helped officers pre-empt several
+crimes and has led to five arrests.
+
+The notion of predictive policing is attracting increasing attention from law
+enforcement agencies around the United States as departments struggle to fight
+crime at a time when budgets are being slashed.
+
+''We're facing a situation where we have 30 percent more calls for service but
+20 percent less staff than in the year 2000, and that is going to continue to be
+our reality,'' Mr. Friend said. ''So we have to deploy our resources in a more
+effective way, and we thought this model would help.''
+
+Efforts to systematically anticipate when and where crimes will occur are being
+tried out in several cities. The Chicago Police Department, for example, created
+a predictive analytics unit last year.
+
+But Santa Cruz's method is more sophisticated than most. Based on models for
+predicting aftershocks from earthquakes, it generates projections about which
+areas and windows of time are at highest risk for future crimes by analyzing and
+detecting patterns in years of past crime data. The projections are recalibrated
+daily, as new crimes occur and updated data is fed into the program.
+
+On the day the women were arrested, for example, the program identified the
+approximately one-square-block area where the parking garage was as one of the
+highest-risk locations for car burglaries.
+
+In contrast, CompStat and other crime-tracking systems in use in many cities are
+calibrated less frequently, rely more on humans to recognize patterns, and
+allocate resources based on past crimes rather than predicted future offenses.
+
+The program used in Santa Cruz was developed by a group of researchers -
+including two mathematicians, George Mohler and Martin Short; an anthropologist,
+P. Jeffrey Brantingham; and a criminologist, George E. Tita - in a project that
+used data provided by the Los Angeles Police Department, which is hoping to
+begin using the program later this year.
+
+''We're watching closely what is going on in Santa Cruz,'' said Capt. Sean
+Malinowski of the Los Angeles department's Foothill patrol division, who worked
+with the researchers when he was head of the department's crime center under the
+police chief at the time, William J. Bratton.
+
+Captain Malinowski envisions a time when the police would issue crime forecasts
+the same way the National Weather Service issues storm alerts.
+
+''It would certainly be safer for everyone and more effective,'' he said,
+postulating, ''You're having a rash of shootings, and the computer says it's
+going to continue in these places and on these days of the week.''
+
+He added, ''Now, if we have a problem, we throw a lot of cops at it, and
+unfortunately, with the economy being the way it is, we don't have as many cops
+available.''
+
+The CompStat system, Captain Malinowski said, was a big advance for policing,
+but the use of computer programs takes prediction to the next level.
+
+With CompStat and other, similar approaches, ''we look at these maps, and
+they're as accurate as we can get them,'' he said. ''But I'm looking at a map
+from last week, and the whole assumption is that next week is like last week.
+The computer eliminates the bias that people have.''
+
+For the Santa Cruz trial, eight years of crime data were fed into the computer
+program, which breaks Santa Cruz into squares of approximately 500 feet by 500
+feet, or 150 meters by 150 meters. New data are added each day.
+
+Officers are given a list of the 10 highest-probability ''hot spots'' of the day
+at roll call. They check those areas during times that they are not out on
+service calls. Before the program started, they made such ''pass through''
+checks based on hunches or experience of where crimes were likely to occur.
+
+Mr. Friend said that the reaction to the prediction method among officers had
+been ''quite positive.''
+
+''The feedback I've received is that there is appreciation that it has validated
+intuition or provided a new focus area that wasn't known,'' he said.
+
+How accurate the program really is has yet to be demonstrated; its success will
+be evaluated after six months.
+
+''The worst-case scenario is that it doesn't work, and we're no worse off,''
+said Mr. Friend, who had enlisted Mr. Mohler, a professor at Santa Clara
+University.
+
+Mr. Friend said the early indications were encouraging. Burglaries were down 27
+percent in July compared with July 2010, suggesting that the carefully directed
+policing may have a deterrent effect, he said.
+
+In Los Angeles, Captain Malinowski said, the Police Department hopes to expand
+the program to include some violent crimes, like gang shootings.
+
+Predicting crime with computer programs is in some ways a natural outgrowth of
+the technology that companies like Wal-Mart now use routinely to predict the
+buying habits of customers, said Scott Dickson, a crime analyst for the Police
+Department in Killeen, Texas, who discussed the Santa Cruz experiment on his
+blog.
+
+Law enforcement agencies, Mr. Dickson noted, have ''great warehouses of data''
+that can be used to feed predictive programs. And in the end, he said, ''it's
+cheaper to prevent a crime than to solve a crime, and that's where I think the
+promise lies.''
+
+LOAD-DATE: August 18, 2011
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+
+                  Copyright 2011 International Herald Tribune
+                              All Rights Reserved
+
+
+                               4 of 13 DOCUMENTS
+
+
+                       San Jose Mercury News (California)
+
+                          November 23, 2011 Wednesday
+
+Time Magazine names Santa Cruz police program to predict crime one of the year's
+top inventions
+
+BYLINE: By Jessica M. Pasko jpasko@santacruzsentinel.com
+
+SECTION: BREAKING; Communities; Central Coast; Crime; News; Local
+
+LENGTH: 552 words
+
+
+SANTA CRUZ -- The city police department's program to predict crime trends has
+garnered yet another accolade.
+
+The program is being named as one of the 50 best inventions of 2011 by Time
+magazine.
+
+In the Nov. 28 issue, which is already on newsstands, the program was praised
+for helping the department "get ahead of the bad guys."
+
+It joins the ranks of such inventions as the iPad, the electric car and devices
+that help people walk again, which have all been named among the top inventions
+in previous years. Time releases its "50 Best New Inventions" issue annually.
+Other inventions honored by Time this year are Apple's Siri, 3-D processors and
+holographic mapping.
+
+"We are honored to be recognized by Time magazine for our predictive policing
+program," said police Chief Kevin Vogel. "Innovation is the key to modern
+policing, and we're proud to be leveraging technology in a way that keeps our
+community safer."
+
+The program, which uses technology based on earthquake prediction technology,
+has been praised by media outlets and law enforcement agencies around the nation
+for its innovation, including features in the New York Times and on ABC "World
+News" with Diane Sawyer, among others.
+
+Being recognized by Time is a big honor, but what's more important is that since
+the program was implemented, the department has seen a large reduction in
+crimes, said Zach Friend, spokesman and crime analyst for the department.
+
+"We're focused a lot less on the coverage and the accolades than we are on the
+actual reduction," said Friend, who was instrumental in bringing the program to
+Santa Cruz.
+
+Friend first read about the predictive policing program being worked on by Santa
+Clara University's George Mohler in the Los Angeles Times last year and decided
+to approach Mohler about implementing it in Santa Cruz.
+
+Mohler developed the program with a team of UCLA researchers using an earthquake
+aftershock model to determine where future crimes will occur, initially using
+data from the Los Angeles Police Department. It's similar to the predictability
+of an aftershock after an earthquake in that the model predicts that there will
+be so-called "after crimes" following an initial crime.
+
+Friend and Santa Cruz police leaders met with Mohler and provided him with crime
+data from 2002-2009, with a focus on property crimes. The department became the
+first in the nation to use the predictive program, which it implemented in July,
+and since then, it has already resulted in a decrease in the targeted crime
+types, which includes burglaries and motor vehicle thefts.
+
+In January, the police department will work with the researchers to do a full
+analysis of the program after the first six months of implementation. Other
+police departments are also looking into implementing the program, which LAPD
+has started testing in one of its divisions.
+
+Friend and Lt. Bernie Escalante visited LAPD earlier this week to speak to
+members of the division, which is three times the size of the entire Santa Cruz
+Police Department, about using the program and how its worked in Santa Cruz.
+
+The program can also help ease the pain of departments dealing with shrinking
+staffing due to budget cuts, a matter of increasing importance given the
+nation's economic troubles.
+
+"Technological programs like this can help equalize the gap there," said Friend.
+
+LOAD-DATE: November 24, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC:
+
+PUBLICATION-TYPE: Newspaper
+
+
+                      Copyright 2011 San Jose Mercury News
+                              All Rights Reserved
+
+
+                               5 of 13 DOCUMENTS
+
+
+                        Santa Cruz Sentinel (California)
+
+                 Distributed by McClatchy-Tribune Business News
+
+                           December 29, 2011 Thursday
+
+Burglaries drop in first five months of predictive policing in Santa Cruz
+
+BYLINE: Stephen Baxter, Santa Cruz Sentinel, Calif.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 477 words
+
+
+Dec. 29--SANTA CRUZ -- Reported burglaries to homes, businesses and vehicles
+fell in the first five months of Santa Cruz police's predictive policing
+program, police said Wednesday.
+
+Predictive policing uses historical data on the time and location of burglaries
+and thefts and runs it through an algorithm to predict future crime. Officers
+are asked to patrol in those areas to deter crime.
+
+There has been a national movement among police agencies to implement predictive
+policing, and Santa Cruz police on July 1 were the first to use it.
+
+From July 1 to Nov. 30, there was an 11 percent drop in reported burglaries in
+the city compared with the same period in 2010, said Zach Friend, Santa Cruz
+police crime analyst.
+
+Compared with the first half of 2011 -- Jan. 1, 2011 to June 30, 2011 -- there
+was a 20 percent decrease in burglaries to homes, business and vehicles, Friend
+said.
+
+The drop could be correlated to the new program and not necessarily caused by
+it, but Friend said the change was positive.
+
+There is an average of 300 burglaries to homes, businesses and vehicles annually
+in Santa Cruz, Friend said.
+
+"I'd have to say that was a success," Friend said of the program's preliminary
+results.
+
+In late January, Santa Cruz police plan to release a full report of the
+program's first six months after the data is analyzed by professors from Santa
+Clara University and the UCLA. George Mohler, an assistant professor of math and
+computer
+
+science, has worked on the project with anthropologist Jeff Brantingham of UCLA.
+
+If the results are positive, Friend said it could grow to include data for
+bicycle thefts and gang-motivated violent crime to try to deter them.
+
+During the department's roll call at the start of each shift, officers are given
+a sheet of paper that lists street blocks and times with the highest probability
+of burglaries and auto thefts -- based on historical data and the algorithm.
+
+If the officer has a few minutes between calls for service, he or she can patrol
+that area, Friend said.
+
+Friend said the targeted patrols since July have netted about 12 arrests, but
+the emphasis is on crime prevention.
+
+"The intent has not been to arrest our way out of problem, it's to deter crime,"
+Friend said.
+
+"If the criminal is familiar with policing patterns and you're breaking that
+pattern through targeted patrol, then they're less likely to commit a burglary,"
+Friend said.
+
+He added that officers' feedback on the new system would help guide the
+potential changes to it in 2012.
+
+In addition to burglaries, police started in July to implement predictive
+policing methods for auto thefts.
+
+So far, police said the change in reported auto thefts have been statistically
+insignificant.
+
+___ (c)2011 the Santa Cruz Sentinel (Scotts Valley, Calif.) Visit the Santa Cruz
+Sentinel (Scotts Valley, Calif.) at www.santacruzsentinel.com Distributed by MCT
+Information Services
+
+LOAD-DATE: December 30, 2011
+
+LANGUAGE: ENGLISH
+
+ACC-NO: 20111229-QC-Burglaries-drop-in-first-five-months-of-predictive-policing
+-in-Santa-Cruz-1229-20111229
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: QC
+
+
+                       Copyright 2011 Santa Cruz Sentinel
+
+
+                               6 of 13 DOCUMENTS
+
+
+                               The New York Times
+
+                            August 16, 2011 Tuesday
+                              Late Edition - Final
+
+Sending the Police Before There's a Crime
+
+BYLINE: By ERICA GOODE
+
+SECTION: Section A; Column 0; National Desk; Pg. 11
+
+LENGTH: 991 words
+
+
+The arrests were routine. Two women were taken into custody after they were
+discovered peering into cars in a downtown parking garage in Santa Cruz, Calif.
+One woman was found to have outstanding warrants; the other was carrying illegal
+drugs.
+
+But the presence of the police officers in the garage that Friday afternoon in
+July was anything but ordinary: They were directed to the parking structure by a
+computer program that had predicted that car burglaries were especially likely
+there that day.
+
+The program is part of an unusual experiment by the Santa Cruz Police Department
+in predictive policing -- deploying officers in places where crimes are likely
+to occur in the future.
+
+In July, Santa Cruz began testing the prediction method for property crimes like
+car and home burglaries and car thefts. So far, said Zach Friend, the police
+department's crime analyst, the program has helped officers pre-empt several
+crimes and has led to five arrests.
+
+The notion of predictive policing is attracting increasing attention from law
+enforcement agencies around the country as departments struggle to fight crime
+at a time when budgets are being slashed.
+
+''We're facing a situation where we have 30 percent more calls for service but
+20 percent less staff than in the year 2000, and that is going to continue to be
+our reality,'' Mr. Friend said. ''So we have to deploy our resources in a more
+effective way, and we thought this model would help.''
+
+Efforts to systematically anticipate when and where crimes will occur are being
+tried out in several cities. The Chicago Police Department, for example, created
+a predictive analytics unit last year.
+
+But Santa Cruz's method is more sophisticated than most. Based on models for
+predicting aftershocks from earthquakes, it generates projections about which
+areas and windows of time are at highest risk for future crimes by analyzing and
+detecting patterns in years of past crime data. The projections are recalibrated
+daily, as new crimes occur and updated data is fed into the program.
+
+On the day the women were arrested, for example, the program identified the
+approximately one-square-block area where the parking garage is situated as one
+of the highest-risk locations for car burglaries.
+
+In contrast, CompStat and other crime-tracking systems in use in many cities are
+calibrated less frequently, rely more on humans to recognize patterns, and
+allocate resources based on past crimes rather than predicted future offenses.
+
+The program was developed by a group of researchers -- including two
+mathematicians, George Mohler and Martin Short; an anthropologist, Jeff
+Brantingham; and a criminologist, George Tita -- in a project that used data
+provided by the Los Angeles Police Department, which is hoping to begin using
+the program later this year.
+
+''We're watching closely what is going on in Santa Cruz,'' said Capt. Sean
+Malinowski of the Los Angeles department's Foothill Patrol Division, who worked
+with the researchers when he was head of the department's crime center under the
+police chief at the time, William J. Bratton.
+
+Captain Malinowski envisions a time when the police will issue crime forecasts
+the same way the Weather Service issues storm alerts.
+
+''It would certainly be safer for everyone and more effective,'' he said, adding
+that the forecast might say, ''You're having a rash of shootings and the
+computer says it's going to continue in these places and on these days of the
+week.''
+
+He added, ''Now, if we have a problem, we throw a lot of cops at it, and
+unfortunately, with the economy being the way it is, we don't have as many cops
+available.''
+
+The CompStat system, Captain Malinowski said, was a big advance for policing,
+but the use of computer programs takes prediction to the next level.
+
+With CompStat and other, similar approaches, ''we look at these maps and they're
+as accurate as we can get them,'' he said. ''But I'm looking at a map from last
+week and the whole assumption is that next week is like last week. The computer
+eliminates the bias that people have.''
+
+For the Santa Cruz trial, eight years of crime data were fed into the computer
+program, which breaks Santa Cruz into squares of approximately 500 feet by 500
+feet. New data is added each day.
+
+Officers are given a list of the 10 highest-probability ''hot spots'' of the day
+at roll call. They check those areas during times that they are not out on
+service calls. Before the program started, they made such ''pass through''
+checks based on hunches or experience of where crimes were likely to occur.
+
+Mr. Friend said that the reaction to the prediction method among officers had
+been ''quite positive.''
+
+''The feedback I've received is that there is appreciation that it has validated
+intuition or provided a new focus area that wasn't known,'' he said.
+
+How accurate the program really is has yet to be demonstrated; its success will
+be evaluated after six months.
+
+''The worst-case scenario is that it doesn't work and we're no worse off,'' said
+Mr. Friend, who enlisted Dr. Mohler, a professor at Santa Clara University.
+
+Mr. Friend said the early indications were encouraging. Burglaries were down 27
+percent in July compared with July 2010, suggesting that the targeted policing
+may have a deterrent effect, he said.
+
+In Los Angeles, Captain Malinowski said, the police department hopes to expand
+the program to include some violent crimes, like gang shootings.
+
+Predicting crime with computer programs is in some ways a natural outgrowth of
+the technology that companies like Wal-Mart now use routinely to predict the
+buying habits of customers, said Scott Dickson, a crime analyst for the police
+department in Killeen, Tex., who discussed the Santa Cruz experiment on his
+blog.
+
+Law enforcement agencies, Mr. Dickson noted, have ''great warehouses of data''
+that can be used to feed predictive programs. And in the end, he said, ''it's
+cheaper to prevent a crime than to solve a crime, and that's where I think the
+promise lies.''
+
+URL: http://www.nytimes.com
+
+LOAD-DATE: August 16, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Officers at a location flagged by a computer program as a place
+where car burglaries were likely. (PHOTOGRAPH BY JIM WILSON/THE NEW YORK TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2011 The New York Times Company
+
+
+                               7 of 13 DOCUMENTS
+
+
+                        Contra Costa Times (California)
+
+                            January 14, 2011 Friday
+
+Santa Cruz police first in nation to try Santa Clara University model to predict
+crime
+
+BYLINE: By Stephen Baxter sbaxter@santacruzsentinel.com
+
+SECTION: BREAKING; News; Local
+
+LENGTH: 565 words
+
+
+SANTA CRUZ -- Santa Cruz police are poised to be the first in the nation to use
+a new statistical model to predict crime and try to prevent it.
+
+Police recently submitted eight years of crime reports to an applied mathematics
+professor at Santa Clara University, and he is mapping the time, location and
+recurrence of crimes to help police predict crime and tailor their patrols. It's
+an emerging, national movement called "predictive policing."
+
+"I think the more you put police in areas where there is more crime, the more
+efficiently you're policing the city," said George Mohler, the Santa Clara
+University professor doing the research.
+
+Mohler said the goal is not to arrest more people, but rather to have an officer
+patrolling a neighborhood so that a car burglary, for example, doesn't happen in
+the first place.
+
+Zach Friend, a crime analyst for the Santa Cruz Police Department, said he
+approached Mohler about the project after reading news reports about predictive
+policing in the fall.
+
+In November, Friend and Santa Cruz police leaders met with Mohler and gave him
+data from 2002 to 2009 - as well as the city's 2010 data this week. The data
+focused on property crimes, including the time, date and location of home
+burglaries, vehicle burglaries and stolen vehicles.
+
+"The overall model is based on the belief that crime is not random. So with
+enough data points, you could predict where and when it will happen," Friend
+said.
+
+Mohler added, "We don't view criminals as deviants, it's people who see an
+opportunity and take advantage of it."
+
+If a person sees a laptop computer in a parked car, for example, and a police
+officer is driving by at the same time, the thief backs off. The crime is
+prevented, the person is not arrested and the police are more efficient on
+patrol.
+
+Mohler earned a doctorate at UCLA, where he crunched numbers with crime data
+from the Los Angeles and Long Beach police departments. He expects to return his
+results to Santa Cruz police in the coming months, and police will decide how to
+change patrol locations and times within officers' usual shifts.
+
+The changes will start in February at the soonest, police said.
+
+"We're the only police agency in the country doing it," Friend said.
+
+Santa Cruz police now use maps of reported crime, crime statistics, neighborhood
+complaints and old-fashioned officer intuition to combat crime. In the new
+system, police anticipate that officers will receive instructions in their roll
+call meetings before each shift to talk about places and times to perform extra
+checks, Friend said. Supervisors also might discuss predicted spikes in crime.
+
+Mohler, a 29-year-old assistant professor, said he is doing the work at no
+charge. He said he wants to build his repertoire of published research.
+
+Mohler said burglars who successfully steal from a home or car often return
+there because they knew it worked. No one was at a home when it was broken into
+at 2 p.m., for instance, and burglars often use that knowledge to return or
+break in to another house in the neighborhood.
+
+In Santa Cruz, Mohler has found that repeat car and home burglaries tend to
+happen four days after a crime. In Los Angeles and Long Beach, he said, the
+recurrence takes seven to eight days, Mohler said.
+
+It's unclear why, but Mohler said that kind of data could help police.
+
+"Whether a person returns four days later or six days later might not be
+intuitive," he said.
+
+LOAD-DATE: January 15, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC:
+
+PUBLICATION-TYPE: Newspaper
+
+
+                     Copyright 2011 Contra Costa Newspapers
+                              All Rights Reserved
+
+
+                               8 of 13 DOCUMENTS
+
+
+                       San Jose Mercury News (California)
+
+                            January 14, 2011 Friday
+
+Santa Cruz police first in nation to try Santa Clara University model to predict
+crime
+
+BYLINE: By Stephen Baxter sbaxter@santacruzsentinel.com
+
+SECTION: BREAKING; Communities; Central Coast; Peninsula; Crime; News; Local
+
+LENGTH: 565 words
+
+
+SANTA CRUZ -- Santa Cruz police are poised to be the first in the nation to use
+a new statistical model to predict crime and try to prevent it.
+
+Police recently submitted eight years of crime reports to an applied mathematics
+professor at Santa Clara University, and he is mapping the time, location and
+recurrence of crimes to help police predict crime and tailor their patrols. It's
+an emerging, national movement called "predictive policing."
+
+"I think the more you put police in areas where there is more crime, the more
+efficiently you're policing the city," said George Mohler, the Santa Clara
+University professor doing the research.
+
+Mohler said the goal is not to arrest more people, but rather to have an officer
+patrolling a neighborhood so that a car burglary, for example, doesn't happen in
+the first place.
+
+Zach Friend, a crime analyst for the Santa Cruz Police Department, said he
+approached Mohler about the project after reading news reports about predictive
+policing in the fall.
+
+In November, Friend and Santa Cruz police leaders met with Mohler and gave him
+data from 2002 to 2009 - as well as the city's 2010 data this week. The data
+focused on property crimes, including the time, date and location of home
+burglaries, vehicle burglaries and stolen vehicles.
+
+"The overall model is based on the belief that crime is not random. So with
+enough data points, you could predict where and when it will happen," Friend
+said.
+
+Mohler added, "We don't view criminals as deviants, it's people who see an
+opportunity and take advantage of it."
+
+If a person sees a laptop computer in a parked car, for example, and a police
+officer is driving by at the same time, the thief backs off. The crime is
+prevented, the person is not arrested and the police are more efficient on
+patrol.
+
+Mohler earned a doctorate at UCLA, where he crunched numbers with crime data
+from the Los Angeles and Long Beach police departments. He expects to return his
+results to Santa Cruz police in the coming months, and police will decide how to
+change patrol locations and times within officers' usual shifts.
+
+The changes will start in February at the soonest, police said.
+
+"We're the only police agency in the country doing it," Friend said.
+
+Santa Cruz police now use maps of reported crime, crime statistics, neighborhood
+complaints and old-fashioned officer intuition to combat crime. In the new
+system, police anticipate that officers will receive instructions in their roll
+call meetings before each shift to talk about places and times to perform extra
+checks, Friend said. Supervisors also might discuss predicted spikes in crime.
+
+Mohler, a 29-year-old assistant professor, said he is doing the work at no
+charge. He said he wants to build his repertoire of published research.
+
+Mohler said burglars who successfully steal from a home or car often return
+there because they knew it worked. No one was at a home when it was broken into
+at 2 p.m., for instance, and burglars often use that knowledge to return or
+break in to another house in the neighborhood.
+
+In Santa Cruz, Mohler has found that repeat car and home burglaries tend to
+happen four days after a crime. In Los Angeles and Long Beach, he said, the
+recurrence takes seven to eight days, Mohler said.
+
+It's unclear why, but Mohler said that kind of data could help police.
+
+"Whether a person returns four days later or six days later might not be
+intuitive," he said.
+
+LOAD-DATE: January 15, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: Sgt. David Perry leads the Thursday afternoon swing shift roll call at
+the Santa Cruz police department.
+Santa Cruz police officers at roll call for Thursday's swing shift.
+
+PUBLICATION-TYPE: Newspaper
+
+
+                      Copyright 2011 San Jose Mercury News
+                              All Rights Reserved
+
+
+                               9 of 13 DOCUMENTS
+
+
+                        Santa Cruz Sentinel (California)
+
+                 Distributed by McClatchy-Tribune Business News
+
+                           January 15, 2011 Saturday
+
+Crime predictions to guide Santa Cruz police
+
+BYLINE: Stephen Baxter, Santa Cruz Sentinel, Calif.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 624 words
+
+
+Jan. 15--SANTA CRUZ -- Santa Cruz police are poised to be the first in the
+nation to use a new statistical model to predict crime and try to prevent it.
+
+Police recently submitted eight years of crime reports to an applied mathematics
+professor at Santa Clara University, and he is mapping the time, location and
+recurrence of crimes to help police predict crime and tailor their patrols. It's
+an emerging, national movement called "predictive policing."
+
+"I think the more you put police in areas where there is more crime, the more
+efficiently you're policing the city," said George Mohler, the Santa Clara
+University professor doing the research.
+
+Mohler said the goal is not to arrest more people, but to have an officer
+patrolling a neighborhood so that a car burglary, for example, doesn't happen in
+the first place.
+
+Zach Friend, a crime analyst for the Santa Cruz Police Department, said he
+approached Mohler about the project after reading news reports about predictive
+policing in the fall.
+
+In November, Friend and Santa Cruz police leaders met with Mohler and gave him
+data from 2002 to 2009 -- along with the city's 2010 data this week. The data
+focused on property crimes, including the time, date and location of home
+burglaries, vehicle burglaries and stolen vehicles.
+
+"The overall model is based on the belief that crime is not random. So with
+enough data points, you could predict where and when it will happen," Friend
+said.
+
+Mohler added, "We don't view criminals as deviants, it's people who see an
+opportunity and take advantage of it."
+
+If a person sees a laptop computer in a parked car, for example, and a police
+officer is driving by at the same time, the thief backs off. The crime is
+prevented, the person is not arrested and the police are more efficient on
+patrol.
+
+Mohler earned a doctorate at UCLA, where he crunched numbers with crime data
+from the Los Angeles and Long Beach police departments. He expects to return his
+results to Santa Cruz police in the coming months, and police will decide how to
+change patrol locations and times within officers' usual shifts.
+
+The changes will start in February at the earliest, police said.
+
+"We're the only police agency in the country doing it," Friend said.
+
+Santa Cruz police now use maps of reported crime, crime statistics, neighborhood
+complaints and old-fashioned officer intuition to combat crime. In the new
+system, police anticipate that officers will receive instructions in their roll
+call meetings before each shift to talk about places and times to perform extra
+checks, Friend said. Supervisors also might discuss predicted spikes in crime.
+
+Mohler, a 29-year-old assistant professor, said he is doing the work at no
+charge. He said he wants to build his repertoire of published research.
+
+Mohler said burglars who successfully steal from a home or car often return
+there because they knew it worked. No one was at a home when it was broken into
+at 2 p.m., for instance, and burglars often use that knowledge to return or
+break in to another house in the neighborhood.
+
+In Santa Cruz, Mohler has found that repeat car and home burglaries tend to
+happen four days after a crime. In Los Angeles and Long Beach, he said, the
+recurrence takes seven to eight days, Mohler said.
+
+It's unclear why, but Mohler said that kind of data could help police.
+
+"Whether a person returns four days later or six days later might not be
+intuitive," he said.
+
+To see more of The Santa Cruz Sentinel or to subscribe to the newspaper, go to
+http://www.santacruzsentinel.com. Copyright (c) 2011, Santa Cruz Sentinel,
+Calif. Distributed by McClatchy-Tribune Information Services. For more
+information about the content services offered by McClatchy-Tribune Information
+Services (MCT), visit www.mctinfoservices.com.
+
+LOAD-DATE: January 16, 2011
+
+LANGUAGE: ENGLISH
+
+ACC-NO: 20110115-QC-Crime-predictions-to-guide-Santa-Cruz-police-0115-20110115
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: QC
+
+
+                       Copyright 2011 Santa Cruz Sentinel
+
+
+                               10 of 13 DOCUMENTS
+
+
+                        Santa Cruz Sentinel (California)
+
+                 Distributed by McClatchy-Tribune Business News
+
+                           January 15, 2011 Saturday
+
+Crime predictions to guide Santa Cruz police; Agency says it will be first in
+nation to try Santa Clara University model
+
+BYLINE: Stephen Baxter, Santa Cruz Sentinel, Calif.
+
+SECTION: STATE AND REGIONAL NEWS
+
+LENGTH: 625 words
+
+
+Jan. 15--SANTA CRUZ -- Santa Cruz police are poised to be the first in the
+nation to use a new statistical model to predict crime and try to prevent it.
+
+Police recently submitted eight years of crime reports to an applied mathematics
+professor at Santa Clara University, and he is mapping the time, location and
+recurrence of crimes to help police predict crime and tailor their patrols. It's
+an emerging, national movement called "predictive policing."
+
+"I think the more you put police in areas where there is more crime, the more
+efficiently you're policing the city," said George Mohler, the Santa Clara
+University professor doing the research.
+
+Mohler said the goal is not to arrest more people, but rather to have an officer
+patrolling a neighborhood so that a car burglary, for example, doesn't happen in
+the first place.
+
+Zach Friend, a crime analyst for the Santa Cruz Police Department, said he
+approached Mohler about the project after reading news reports about predictive
+policing in the fall.
+
+In November, Friend and Santa Cruz police leaders met with Mohler and gave him
+data from 2002 to 2009 -- as well as the city's 2010 data this week. The data
+focused on property crimes, including the time, date and location of home
+burglaries, vehicle burglaries and stolen vehicles.
+
+"The overall model is based on the belief that crime is not random. So with
+enough data points, you could predict where and when it will happen," Friend
+said.
+
+Mohler added, "We don't view criminals as deviants, it's people who see an
+opportunity and take advantage of it."
+
+If a person sees a laptop computer in a parked car, for example, and a police
+officer is driving by at the same time, the thief backs off. The crime is
+prevented, the person is not arrested and the police are more efficient on
+patrol.
+
+Mohler earned a doctorate at UCLA, where he crunched numbers with crime data
+from the Los Angeles and Long Beach police departments. He expects to return his
+results to Santa Cruz police in the coming months, and police will decide how to
+change patrol locations and times within officers' usual shifts.
+
+The changes will start in February at the soonest, police said.
+
+"We're the only police agency in the country doing it," Friend said.
+
+Santa Cruz police now use maps of reported crime, crime statistics, neighborhood
+complaints and old-fashioned officer intuition to combat crime. In the new
+system, police anticipate that officers will receive instructions in their roll
+call meetings before each shift to talk about places and times to perform extra
+checks, Friend said. Supervisors also might discuss predicted spikes in crime.
+
+Mohler, a 29-year-old assistant professor, said he is doing the work at no
+charge. He said he wants to build his repertoire of published research.
+
+Mohler said burglars who successfully steal from a home or car often return
+there because they knew it worked. No one was at a home when it was broken into
+at 2 p.m., for instance, and burglars often use that knowledge to return or
+break in to another house in the neighborhood.
+
+In Santa Cruz, Mohler has found that repeat car and home burglaries tend to
+happen four days after a crime. In Los Angeles and Long Beach, he said, the
+recurrence takes seven to eight days, Mohler said.
+
+It's unclear why, but Mohler said that kind of data could help police.
+
+"Whether a person returns four days later or six days later might not be
+intuitive," he said.
+
+To see more of The Santa Cruz Sentinel or to subscribe to the newspaper, go to
+http://www.santacruzsentinel.com. Copyright (c) 2011, Santa Cruz Sentinel,
+Calif. Distributed by McClatchy-Tribune Information Services. For more
+information about the content services offered by McClatchy-Tribune Information
+Services (MCT), visit www.mctinfoservices.com.
+
+LOAD-DATE: January 15, 2011
+
+LANGUAGE: ENGLISH
+
+ACC-NO:
+20110115-QC-Crime-predictions-to-guide-Santa-Cruz-police-Agency-says-it-will-be-
+first-in-nation-to-try-Santa-Clara-University-model-0115-20110115
+
+PUBLICATION-TYPE: Newspaper
+
+JOURNAL-CODE: QC
+
+
+                       Copyright 2011 Santa Cruz Sentinel
+
+
+                               11 of 13 DOCUMENTS
+
+
+                        Contra Costa Times (California)
+
+                             July 28, 2011 Thursday
+
+Cassidy: Santa Clara University math scholar fights crime with mad math skills
+
+BYLINE: By Mike Cassidy Mercury News Columnist
+
+SECTION: BUSINESS
+
+LENGTH: 789 words
+
+
+George Mohler is a crime-fighting, math professor superhero -- not that he'd
+ever call himself that.
+
+First he'll point out it's "assistant professor," first year at Santa Clara
+University. Next, he'll go into some detail about how his computer program that
+uses past crime data to predict when and where future crimes will be attempted
+is not exactly mathematics.
+
+"I don't know that I'd call it math," Mohler, a slim guy who dresses geek chic,
+says over coffee. "In some ways it's applied statistics, really. Spatial
+statistics."
+
+Known to the rest of us as math.
+
+Which is not to say he isn't delighted by the attention his work with
+crime-curbing algorithms has been attracting (newspaper stories, academic
+papers, conference talks). After all, it isn't every day that algorithms stir up
+much of a fuss, unless you're Google ( GOOG ).
+
+"To be honest I never really imagined that this is where I'd end up," says
+Mohler, 29, meaning not the Peet's near campus, but as the it guy in the
+emerging crime-fighting field known as predictive policing.
+
+"I think it's brilliant," says Zach Friend, the Santa Cruz Police Department's
+crime analyst. Santa Cruz is the first department to deploy Mohler's program.
+Los Angeles is planning to incorporate the system into its crime prevention
+efforts, and both Mohler and Friend say they've heard from other departments
+that are interested.
+
+Santa Cruz has been using Mohler's program only long enough to know it's very
+promising. In the first few weeks, officers have seen a high correlation between
+when and where the program says a certain type of property crime -- burglary,
+car break-ins or auto theft -- will occur and reports of that crime being tried
+or committed, Friend says. It will be months, he adds, before crime-fighters in
+Surf City will be able to determine its overall effectiveness.
+
+But more important for now is what Mohler's work has to say to every school kid
+struggling with math and wondering what possible use there could ever be for all
+this number crunching.
+
+In a valley of curious minds, Mohler shows just where those minds can lead us.
+This all started for him at UC Santa Barbara when he was tinkering with computer
+programs that might help those working with plastics and other materials create
+better products. It was a heady mix of polynomials and polymers. (A little math
+humor there.) Then onto UCLA, his stop before Santa Clara, where he joined a
+team studying crime patterns in Los Angeles.
+
+Mohler started noodling around with notions of how to spot patterns in seemingly
+random events. You know, like earthquakes. And bingo. What happens when a
+sizable earthquake hits an area? Aftershocks.
+
+And it turns out that when one house on a street is burglarized, it's not
+unusual for nearby houses -- or even the same house -- to be hit later. It seems
+burglars, like most of us, hate long commutes. They prefer to strike near home,
+which is one reason for follow-on crime in a given neighborhood, Mohler says.
+
+"You can see it,'' he says of the crime data he's crunched, "especially property
+crimes."
+
+Mohler began searching for studies covering earthquake prediction models, which
+have been around for years. "Google is an invaluable tool." (Love those
+algorithms.) He read and pondered and sought help from fellow academics. He
+determined that the principles behind earthquake prediction could be tweaked and
+applied to crime.
+
+Mohler's model (see http://math.scu.edu/~gmohler/crime_science2.pdf),  which
+relies on years of crime data, now provides Santa Cruz with a dynamic tool that
+constantly changes as crimes are committed in different parts of the city.
+Officers review the predictions regularly. They make it a point to pass through
+trouble spots when they are not busy with other calls.
+
+Mohler's timing couldn't have been better. As he was toiling away, many police
+departments statewide were slashing budgets, trimming the number of officers and
+looking for ways to keep everyone safe with fewer cops. Mohler, whose research
+is supported by federal grants, is not charging departments for his work.
+
+"We are faced with a reality that we will not see more officers coming into our
+agency, or agencies throughout the state, anytime soon," says Friend, who last
+year read mention of Mohler's project in the Los Angeles Times and shot him an
+email. "We need resources, but if that's not a reality we have to start
+leveraging technology in a way that makes us more efficient."
+
+Which means that Mohler's work might be only the beginning for crime-fighting
+math professor superheroes everywhere.
+
+Contact Mike Cassidy at mcassidy@mercurynews.com or 408-920-5536. Follow him at
+Twitter.com/mikecassidy.more on crime-fighting mathematics
+Go to http://math.scu.edu/ ~gmohler/crime_science2.pdf
+
+LOAD-DATE: July 29, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC:
+
+PUBLICATION-TYPE: Newspaper
+
+
+                     Copyright 2011 Contra Costa Newspapers
+                              All Rights Reserved
+
+
+                               12 of 13 DOCUMENTS
+
+
+                       San Jose Mercury News (California)
+
+                             July 28, 2011 Thursday
+
+Cassidy: Santa Clara University math scholar fights crime with mad math skills
+
+BYLINE: By Mike Cassidy Mercury News Columnist
+
+SECTION: BREAKING; News; Local; Columnists; Business; Columnists
+
+LENGTH: 774 words
+
+
+George Mohler is a crime-fighting, math professor superhero -- not that he'd
+ever call himself that.
+
+First he'll point out it's "assistant professor," first year at Santa Clara
+University. Next, he'll go into some detail about how his computer program that
+uses past crime data to predict when and where future crimes will be attempted
+is not exactly mathematics.
+
+"I don't know that I'd call it math," Mohler, a slim guy who dresses geek chic,
+says over coffee. "In some ways it's applied statistics, really. Spatial
+statistics."
+
+Known to the rest of us as math.
+
+Which is not to say he isn't delighted by the attention his work with
+crime-curbing algorithms has been attracting (newspaper stories, academic
+papers, conference talks). After all, it isn't every day that algorithms stir up
+much of a fuss, unless you're Google ( GOOG ).
+
+"To be honest I never really imagined that this is where I'd end up," says
+Mohler, 29, meaning not the Peet's near campus, but as the it guy in the
+emerging crime-fighting field known as predictive policing.
+
+"I think it's brilliant," says Zach Friend, the Santa Cruz Police Department's
+crime analyst. Santa Cruz is the first department to deploy Mohler's program.
+Los Angeles is planning to incorporate the system into its crime prevention
+efforts, and both Mohler and Friend say they've heard from other departments
+that are interested.
+
+Santa Cruz has been using Mohler's program only long enough to know it's very
+promising. In the first few weeks, officers have seen a high correlation between
+when and where the program says a certain type of property crime -- burglary,
+car break-ins or auto theft -- will occur and reports of that crime being tried
+or committed, Friend says. It will be months, he adds, before crime-fighters in
+Surf City will be able to determine its overall effectiveness.
+
+But more important for now is what Mohler's work has to say to every school kid
+struggling with math and wondering what possible use there could ever be for all
+this number crunching.
+
+In a valley of curious minds, Mohler shows just where those minds can lead us.
+This all started for him at UC Santa Barbara when he was tinkering with computer
+programs that might help those working with plastics and other materials create
+better products. It was a heady mix of polynomials and polymers. (A little math
+humor there.) Then onto UCLA, his stop before Santa Clara, where he joined a
+team studying crime patterns in Los Angeles.
+
+Mohler started noodling around with notions of how to spot patterns in seemingly
+random events. You know, like earthquakes. And bingo. What happens when a
+sizable earthquake hits an area? Aftershocks.
+
+And it turns out that when one house on a street is burglarized, it's not
+unusual for nearby houses -- or even the same house -- to be hit later. It seems
+burglars, like most of us, hate long commutes. They prefer to strike near home,
+which is one reason for follow-on crime in a given neighborhood, Mohler says.
+
+"You can see it,'' he says of the crime data he's crunched, "especially property
+crimes."
+
+Mohler began searching for studies covering earthquake prediction models, which
+have been around for years. "Google is an invaluable tool." (Love those
+algorithms.) He read and pondered and sought help from fellow academics. He
+determined that the principles behind earthquake prediction could be tweaked and
+applied to crime.
+
+Mohler's model, which relies on years of crime data, now provides Santa Cruz
+with a dynamic tool that constantly changes as crimes are committed in different
+parts of the city. Officers review the predictions regularly. They make it a
+point to pass through trouble spots when they are not busy with other calls.
+
+Mohler's timing couldn't have been better. As he was toiling away, many police
+departments statewide were slashing budgets, trimming the number of officers and
+looking for ways to keep everyone safe with fewer cops. Mohler, whose research
+is supported by federal grants, is not charging departments for his work.
+
+"We are faced with a reality that we will not see more officers coming into our
+agency, or agencies throughout the state, anytime soon," says Friend, who last
+year read mention of Mohler's project in the Los Angeles Times and shot him an
+email. "We need resources, but if that's not a reality we have to start
+leveraging technology in a way that makes us more efficient."
+
+Which means that Mohler's work might be only the beginning for crime-fighting
+math professor superheroes everywhere.
+
+Contact Mike Cassidy at mcassidy@mercurynews.com or 408-920-5536. Follow him at
+Twitter.com/mikecassidy.
+
+Go to http://math.scu.edu/ ~gmohler/crime_science2.pdf
+
+LOAD-DATE: February 11, 2012
+
+LANGUAGE: ENGLISH
+
+GRAPHIC:
+
+PUBLICATION-TYPE: Newspaper
+
+
+                      Copyright 2011 San Jose Mercury News
+                              All Rights Reserved
+
+
+                               13 of 13 DOCUMENTS
+
+
+                   Inland Valley Daily Bulletin (Ontario, CA)
+
+                             August 7, 2011 Sunday
+
+Newcombe to head R.C. sheriff's station
+
+BYLINE: Wendy Leung, Staff Writer
+
+SECTION: NEWS
+
+LENGTH: 525 words
+
+
+RANCHO CUCAMONGA - There's a new sheriff's captain in town.
+
+Lt. Mike Newcombe, who came to the Rancho Cucamonga station in April, has been
+promoted to captain and will act as the city's police chief.
+
+The move follows the promotion of Capt. Joe Cusimano, who has led the San
+Bernardino County sheriff's substation since 2007.
+
+Cusimano, 47, a Rancho Cucamonga resident, will move to the deputy chief
+position at the San Bernardino headquarters and lead the desert patrol bureau.
+
+Cusimano and Newcombe's promotions are effective Aug.13.
+
+"I'm honored to be picked," said Newcombe, 47. "I know there will be all kinds
+of difficult challenges, and I welcome the challenges."
+
+Newcombe said he will take over a station already made successful by his
+predecessor.
+
+"I'm not sent here to fix anything," he said. "I'm going to take what Joe has
+done and refine it."
+
+Newcombe, who lives in Highland with his wife and two daughters, came from a
+family of firefighters. His grandfather was a chief of the Crest Forest Fire
+District, and his uncle was a fire chief in San Bernardino.
+
+A Lake Arrowhead native, Newcombe graduated from California Baptist University
+with a bachelor's degree in business administration.
+
+During Newcombe's 22 years with the Sheriff's Department, he served as
+operations lieutenant in the Fontana and Yucaipa stations. In the early 1990s,
+he spent several years doing patrol in Rancho Cucamonga.
+
+In April, Newcombe joined the Rancho Cucamonga station as an administrative
+lieutenant.
+
+Mayor Dennis Michael said he feels comfortable knowing that Newcombe is already
+familiar with this community.
+
+As a contract city, Rancho Cucamonga regularly sees transitions in the sheriff's
+captain post. Sheriff Rod Hoops once served as the Rancho Cucamonga captain.
+
+It is the nature of partnering with the Sheriff's Department, Michael said.
+
+"I rather have outstanding individuals promoted than to have people of lesser
+quality staying here for longer periods of time," Michael said.
+
+Next week, when Cusimano starts his new post as deputy chief in charge of the
+desert region, he'll be back in familiar territory. Cusimano grew up in Apple
+Valley and was stationed in Hesperia prior to coming to Rancho Cucamonga in
+2007.
+
+Cusimano leaves a station with 174 employees, 13 less than when he started.
+Budgetary constraints have added new responsibilities to the captain's position.
+
+The outgoing captain said Newcombe's biggest challenge will be to "police
+leaner."
+
+Michael said Cusimano has done an excellent job reallocating positions and
+cutting overtime.
+
+"We've not suffered any degradation and level of service," Michael said. "He's
+an outstanding budgetary manager. He's a quick thinker, and he gets a lot of
+things done."
+
+During Cusimano's tenure, he helped create the social host ordinance,
+established an alcohol compliance team and expanded the retail theft unit. Most
+recently, Cusimano led a crime unit to analyze patterns and use predictive
+policing to curb a string of residential burglaries originating from Los Angeles
+-based gangs.
+
+Cusimano is one of two city leaders leaving this month. City Manager Jack Lam is
+retiring Aug. 31 after leading City Hall for 22 years.
+
+LOAD-DATE: August 8, 2011
+
+LANGUAGE: ENGLISH
+
+GRAPHIC:
+
+PUBLICATION-TYPE: Newspaper
+
+
+                      Copyright 2011 MediaNews Group, Inc.
+                              All Rights Reserved
